@@ -7,7 +7,7 @@
 
 # I. IT Tasks
 
-1. Create a folder within the `opt-out-exam` folder having the following format `lastname_firstname` with your last name and first name.
+1. Create a folder within the `exam` folder having the following format `lastname_firstname` with your last name and first name.
 2. Within `lastname_firstname` create two folders. One called `IT` and one called `Math`.
 3. Write a shell script called `my_script.sh` and place it to `lastname_firstname/IT/`. It should do the following:
 > - First it should create a folder called `made_by_my_script` within  `lastname_firstname/IT/`. Make sure it can be run on any computer (i.e. use relative paths).
