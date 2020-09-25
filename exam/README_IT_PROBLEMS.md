@@ -13,7 +13,7 @@
 > - First it should create a folder called `made_by_my_script` within  `lastname_firstname/IT/`. Make sure it can be run on any computer (i.e. use relative paths).
 > - Then it should echo "Hello world" and redirect the standard output to `lastname_firstname/IT/made_by_my_script/hello.txt`.
 > - Finally it should list the contents of the `lastname_firstname/IT/made_by_my_script/` folder and redirect the standard output to `lastname_firstname/IT/made_by_my_script/list_of_files.txt`.
-4. Run `basics.sh`.
+4. Run `my_script.sh`.
 
 
 # II. Math tasks
